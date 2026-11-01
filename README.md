@@ -1,1 +1,1 @@
-# Birthday-Reminder-Automation
+# Choir-Birthday-Reminder
