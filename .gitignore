@@ -4,6 +4,9 @@
 # Environment variables
 .env
 
+# Google credentials
+credentials/
+
 # Python cache
 __pycache__/
 *.py[cod]
